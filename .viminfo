@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1773611701,,"wq"
+|2,0,1773612026,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,24 +25,42 @@
 # Registers:
 
 # File marks:
-'0  14  11  ~/svc.yml
-|4,48,14,11,1773611701,"~/svc.yml"
-'1  13  11  ~/svc-lb.yml
-|4,49,13,11,1773611681,"~/svc-lb.yml"
-'2  12  24  ~/pod.yml
-|4,50,12,24,1773611661,"~/pod.yml"
-'3  23  28  ~/deploy.yml
-|4,51,23,28,1773611641,"~/deploy.yml"
+'0  13  0  ~/package.json
+|4,48,13,0,1773612026,"~/package.json"
+'1  14  11  ~/svc.yml
+|4,49,14,11,1773611701,"~/svc.yml"
+'2  13  11  ~/svc-lb.yml
+|4,50,13,11,1773611681,"~/svc-lb.yml"
+'3  12  24  ~/pod.yml
+|4,51,12,24,1773611661,"~/pod.yml"
+'4  23  28  ~/deploy.yml
+|4,52,23,28,1773611641,"~/deploy.yml"
 
 # Jumplist (newest first):
+-'  13  0  ~/package.json
+|4,39,13,0,1773612026,"~/package.json"
+-'  1  0  ~/package.json
+|4,39,1,0,1773612019,"~/package.json"
 -'  14  11  ~/svc.yml
 |4,39,14,11,1773611701,"~/svc.yml"
+-'  14  11  ~/svc.yml
+|4,39,14,11,1773611701,"~/svc.yml"
+-'  1  0  ~/svc.yml
+|4,39,1,0,1773611693,"~/svc.yml"
 -'  1  0  ~/svc.yml
 |4,39,1,0,1773611693,"~/svc.yml"
 -'  13  11  ~/svc-lb.yml
 |4,39,13,11,1773611681,"~/svc-lb.yml"
 -'  13  11  ~/svc-lb.yml
 |4,39,13,11,1773611681,"~/svc-lb.yml"
+-'  13  11  ~/svc-lb.yml
+|4,39,13,11,1773611681,"~/svc-lb.yml"
+-'  13  11  ~/svc-lb.yml
+|4,39,13,11,1773611681,"~/svc-lb.yml"
+-'  1  0  ~/svc-lb.yml
+|4,39,1,0,1773611673,"~/svc-lb.yml"
+-'  1  0  ~/svc-lb.yml
+|4,39,1,0,1773611673,"~/svc-lb.yml"
 -'  1  0  ~/svc-lb.yml
 |4,39,1,0,1773611673,"~/svc-lb.yml"
 -'  1  0  ~/svc-lb.yml
@@ -55,6 +73,22 @@
 |4,39,12,24,1773611661,"~/pod.yml"
 -'  12  24  ~/pod.yml
 |4,39,12,24,1773611661,"~/pod.yml"
+-'  12  24  ~/pod.yml
+|4,39,12,24,1773611661,"~/pod.yml"
+-'  12  24  ~/pod.yml
+|4,39,12,24,1773611661,"~/pod.yml"
+-'  12  24  ~/pod.yml
+|4,39,12,24,1773611661,"~/pod.yml"
+-'  12  24  ~/pod.yml
+|4,39,12,24,1773611661,"~/pod.yml"
+-'  1  0  ~/pod.yml
+|4,39,1,0,1773611653,"~/pod.yml"
+-'  1  0  ~/pod.yml
+|4,39,1,0,1773611653,"~/pod.yml"
+-'  1  0  ~/pod.yml
+|4,39,1,0,1773611653,"~/pod.yml"
+-'  1  0  ~/pod.yml
+|4,39,1,0,1773611653,"~/pod.yml"
 -'  1  0  ~/pod.yml
 |4,39,1,0,1773611653,"~/pod.yml"
 -'  1  0  ~/pod.yml
@@ -79,6 +113,38 @@
 |4,39,23,28,1773611641,"~/deploy.yml"
 -'  23  28  ~/deploy.yml
 |4,39,23,28,1773611641,"~/deploy.yml"
+-'  23  28  ~/deploy.yml
+|4,39,23,28,1773611641,"~/deploy.yml"
+-'  23  28  ~/deploy.yml
+|4,39,23,28,1773611641,"~/deploy.yml"
+-'  23  28  ~/deploy.yml
+|4,39,23,28,1773611641,"~/deploy.yml"
+-'  23  28  ~/deploy.yml
+|4,39,23,28,1773611641,"~/deploy.yml"
+-'  23  28  ~/deploy.yml
+|4,39,23,28,1773611641,"~/deploy.yml"
+-'  23  28  ~/deploy.yml
+|4,39,23,28,1773611641,"~/deploy.yml"
+-'  23  28  ~/deploy.yml
+|4,39,23,28,1773611641,"~/deploy.yml"
+-'  23  28  ~/deploy.yml
+|4,39,23,28,1773611641,"~/deploy.yml"
+-'  1  0  ~/deploy.yml
+|4,39,1,0,1773611623,"~/deploy.yml"
+-'  1  0  ~/deploy.yml
+|4,39,1,0,1773611623,"~/deploy.yml"
+-'  1  0  ~/deploy.yml
+|4,39,1,0,1773611623,"~/deploy.yml"
+-'  1  0  ~/deploy.yml
+|4,39,1,0,1773611623,"~/deploy.yml"
+-'  1  0  ~/deploy.yml
+|4,39,1,0,1773611623,"~/deploy.yml"
+-'  1  0  ~/deploy.yml
+|4,39,1,0,1773611623,"~/deploy.yml"
+-'  1  0  ~/deploy.yml
+|4,39,1,0,1773611623,"~/deploy.yml"
+-'  1  0  ~/deploy.yml
+|4,39,1,0,1773611623,"~/deploy.yml"
 -'  1  0  ~/deploy.yml
 |4,39,1,0,1773611623,"~/deploy.yml"
 -'  1  0  ~/deploy.yml
@@ -97,6 +163,13 @@
 |4,39,1,0,1773611623,"~/deploy.yml"
 
 # History of marks within files (newest to oldest):
+
+> ~/package.json
+	*	1773612025	0
+	"	13	0
+	^	13	1
+	.	13	0
+	+	13	0
 
 > ~/svc.yml
 	*	1773611699	0
