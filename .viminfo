@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1773612026,,"wq"
+|2,0,1773612504,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,26 +25,144 @@
 # Registers:
 
 # File marks:
-'0  13  0  ~/package.json
-|4,48,13,0,1773612026,"~/package.json"
-'1  14  11  ~/svc.yml
-|4,49,14,11,1773611701,"~/svc.yml"
-'2  13  11  ~/svc-lb.yml
-|4,50,13,11,1773611681,"~/svc-lb.yml"
-'3  12  24  ~/pod.yml
-|4,51,12,24,1773611661,"~/pod.yml"
-'4  23  28  ~/deploy.yml
-|4,52,23,28,1773611641,"~/deploy.yml"
+'0  7  44  ~/bootstrap.css
+|4,48,7,44,1773612504,"~/bootstrap.css"
+'1  16  27  ~/app.js
+|4,49,16,27,1773612151,"~/app.js"
+'2  15  27  ~/Dockerfile
+|4,50,15,27,1773612134,"~/Dockerfile"
+'3  13  0  ~/package.json
+|4,51,13,0,1773612026,"~/package.json"
+'4  14  11  ~/svc.yml
+|4,52,14,11,1773611701,"~/svc.yml"
+'5  13  11  ~/svc-lb.yml
+|4,53,13,11,1773611681,"~/svc-lb.yml"
+'6  12  24  ~/pod.yml
+|4,54,12,24,1773611661,"~/pod.yml"
+'7  23  28  ~/deploy.yml
+|4,55,23,28,1773611641,"~/deploy.yml"
 
 # Jumplist (newest first):
+-'  7  44  ~/bootstrap.css
+|4,39,7,44,1773612504,"~/bootstrap.css"
+-'  1  0  ~/bootstrap.css
+|4,39,1,0,1773612170,"~/bootstrap.css"
+-'  16  27  ~/app.js
+|4,39,16,27,1773612151,"~/app.js"
+-'  16  27  ~/app.js
+|4,39,16,27,1773612151,"~/app.js"
+-'  1  0  ~/app.js
+|4,39,1,0,1773612145,"~/app.js"
+-'  1  0  ~/app.js
+|4,39,1,0,1773612145,"~/app.js"
+-'  15  27  ~/Dockerfile
+|4,39,15,27,1773612134,"~/Dockerfile"
+-'  15  27  ~/Dockerfile
+|4,39,15,27,1773612134,"~/Dockerfile"
+-'  15  27  ~/Dockerfile
+|4,39,15,27,1773612134,"~/Dockerfile"
+-'  15  27  ~/Dockerfile
+|4,39,15,27,1773612134,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1773612126,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1773612126,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1773612126,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1773612126,"~/Dockerfile"
 -'  13  0  ~/package.json
 |4,39,13,0,1773612026,"~/package.json"
+-'  13  0  ~/package.json
+|4,39,13,0,1773612026,"~/package.json"
+-'  13  0  ~/package.json
+|4,39,13,0,1773612026,"~/package.json"
+-'  13  0  ~/package.json
+|4,39,13,0,1773612026,"~/package.json"
+-'  13  0  ~/package.json
+|4,39,13,0,1773612026,"~/package.json"
+-'  13  0  ~/package.json
+|4,39,13,0,1773612026,"~/package.json"
+-'  13  0  ~/package.json
+|4,39,13,0,1773612026,"~/package.json"
+-'  13  0  ~/package.json
+|4,39,13,0,1773612026,"~/package.json"
+-'  1  0  ~/package.json
+|4,39,1,0,1773612019,"~/package.json"
+-'  1  0  ~/package.json
+|4,39,1,0,1773612019,"~/package.json"
+-'  1  0  ~/package.json
+|4,39,1,0,1773612019,"~/package.json"
+-'  1  0  ~/package.json
+|4,39,1,0,1773612019,"~/package.json"
+-'  1  0  ~/package.json
+|4,39,1,0,1773612019,"~/package.json"
+-'  1  0  ~/package.json
+|4,39,1,0,1773612019,"~/package.json"
+-'  1  0  ~/package.json
+|4,39,1,0,1773612019,"~/package.json"
 -'  1  0  ~/package.json
 |4,39,1,0,1773612019,"~/package.json"
 -'  14  11  ~/svc.yml
 |4,39,14,11,1773611701,"~/svc.yml"
 -'  14  11  ~/svc.yml
 |4,39,14,11,1773611701,"~/svc.yml"
+-'  14  11  ~/svc.yml
+|4,39,14,11,1773611701,"~/svc.yml"
+-'  14  11  ~/svc.yml
+|4,39,14,11,1773611701,"~/svc.yml"
+-'  14  11  ~/svc.yml
+|4,39,14,11,1773611701,"~/svc.yml"
+-'  14  11  ~/svc.yml
+|4,39,14,11,1773611701,"~/svc.yml"
+-'  14  11  ~/svc.yml
+|4,39,14,11,1773611701,"~/svc.yml"
+-'  14  11  ~/svc.yml
+|4,39,14,11,1773611701,"~/svc.yml"
+-'  14  11  ~/svc.yml
+|4,39,14,11,1773611701,"~/svc.yml"
+-'  14  11  ~/svc.yml
+|4,39,14,11,1773611701,"~/svc.yml"
+-'  14  11  ~/svc.yml
+|4,39,14,11,1773611701,"~/svc.yml"
+-'  14  11  ~/svc.yml
+|4,39,14,11,1773611701,"~/svc.yml"
+-'  14  11  ~/svc.yml
+|4,39,14,11,1773611701,"~/svc.yml"
+-'  14  11  ~/svc.yml
+|4,39,14,11,1773611701,"~/svc.yml"
+-'  14  11  ~/svc.yml
+|4,39,14,11,1773611701,"~/svc.yml"
+-'  14  11  ~/svc.yml
+|4,39,14,11,1773611701,"~/svc.yml"
+-'  1  0  ~/svc.yml
+|4,39,1,0,1773611693,"~/svc.yml"
+-'  1  0  ~/svc.yml
+|4,39,1,0,1773611693,"~/svc.yml"
+-'  1  0  ~/svc.yml
+|4,39,1,0,1773611693,"~/svc.yml"
+-'  1  0  ~/svc.yml
+|4,39,1,0,1773611693,"~/svc.yml"
+-'  1  0  ~/svc.yml
+|4,39,1,0,1773611693,"~/svc.yml"
+-'  1  0  ~/svc.yml
+|4,39,1,0,1773611693,"~/svc.yml"
+-'  1  0  ~/svc.yml
+|4,39,1,0,1773611693,"~/svc.yml"
+-'  1  0  ~/svc.yml
+|4,39,1,0,1773611693,"~/svc.yml"
+-'  1  0  ~/svc.yml
+|4,39,1,0,1773611693,"~/svc.yml"
+-'  1  0  ~/svc.yml
+|4,39,1,0,1773611693,"~/svc.yml"
+-'  1  0  ~/svc.yml
+|4,39,1,0,1773611693,"~/svc.yml"
+-'  1  0  ~/svc.yml
+|4,39,1,0,1773611693,"~/svc.yml"
+-'  1  0  ~/svc.yml
+|4,39,1,0,1773611693,"~/svc.yml"
+-'  1  0  ~/svc.yml
+|4,39,1,0,1773611693,"~/svc.yml"
 -'  1  0  ~/svc.yml
 |4,39,1,0,1773611693,"~/svc.yml"
 -'  1  0  ~/svc.yml
@@ -57,6 +175,62 @@
 |4,39,13,11,1773611681,"~/svc-lb.yml"
 -'  13  11  ~/svc-lb.yml
 |4,39,13,11,1773611681,"~/svc-lb.yml"
+-'  13  11  ~/svc-lb.yml
+|4,39,13,11,1773611681,"~/svc-lb.yml"
+-'  13  11  ~/svc-lb.yml
+|4,39,13,11,1773611681,"~/svc-lb.yml"
+-'  13  11  ~/svc-lb.yml
+|4,39,13,11,1773611681,"~/svc-lb.yml"
+-'  13  11  ~/svc-lb.yml
+|4,39,13,11,1773611681,"~/svc-lb.yml"
+-'  13  11  ~/svc-lb.yml
+|4,39,13,11,1773611681,"~/svc-lb.yml"
+-'  13  11  ~/svc-lb.yml
+|4,39,13,11,1773611681,"~/svc-lb.yml"
+-'  13  11  ~/svc-lb.yml
+|4,39,13,11,1773611681,"~/svc-lb.yml"
+-'  13  11  ~/svc-lb.yml
+|4,39,13,11,1773611681,"~/svc-lb.yml"
+-'  13  11  ~/svc-lb.yml
+|4,39,13,11,1773611681,"~/svc-lb.yml"
+-'  13  11  ~/svc-lb.yml
+|4,39,13,11,1773611681,"~/svc-lb.yml"
+-'  13  11  ~/svc-lb.yml
+|4,39,13,11,1773611681,"~/svc-lb.yml"
+-'  13  11  ~/svc-lb.yml
+|4,39,13,11,1773611681,"~/svc-lb.yml"
+-'  13  11  ~/svc-lb.yml
+|4,39,13,11,1773611681,"~/svc-lb.yml"
+-'  13  11  ~/svc-lb.yml
+|4,39,13,11,1773611681,"~/svc-lb.yml"
+-'  13  11  ~/svc-lb.yml
+|4,39,13,11,1773611681,"~/svc-lb.yml"
+-'  13  11  ~/svc-lb.yml
+|4,39,13,11,1773611681,"~/svc-lb.yml"
+-'  13  11  ~/svc-lb.yml
+|4,39,13,11,1773611681,"~/svc-lb.yml"
+-'  13  11  ~/svc-lb.yml
+|4,39,13,11,1773611681,"~/svc-lb.yml"
+-'  13  11  ~/svc-lb.yml
+|4,39,13,11,1773611681,"~/svc-lb.yml"
+-'  13  11  ~/svc-lb.yml
+|4,39,13,11,1773611681,"~/svc-lb.yml"
+-'  13  11  ~/svc-lb.yml
+|4,39,13,11,1773611681,"~/svc-lb.yml"
+-'  13  11  ~/svc-lb.yml
+|4,39,13,11,1773611681,"~/svc-lb.yml"
+-'  13  11  ~/svc-lb.yml
+|4,39,13,11,1773611681,"~/svc-lb.yml"
+-'  13  11  ~/svc-lb.yml
+|4,39,13,11,1773611681,"~/svc-lb.yml"
+-'  13  11  ~/svc-lb.yml
+|4,39,13,11,1773611681,"~/svc-lb.yml"
+-'  13  11  ~/svc-lb.yml
+|4,39,13,11,1773611681,"~/svc-lb.yml"
+-'  13  11  ~/svc-lb.yml
+|4,39,13,11,1773611681,"~/svc-lb.yml"
+-'  13  11  ~/svc-lb.yml
+|4,39,13,11,1773611681,"~/svc-lb.yml"
 -'  1  0  ~/svc-lb.yml
 |4,39,1,0,1773611673,"~/svc-lb.yml"
 -'  1  0  ~/svc-lb.yml
@@ -65,104 +239,33 @@
 |4,39,1,0,1773611673,"~/svc-lb.yml"
 -'  1  0  ~/svc-lb.yml
 |4,39,1,0,1773611673,"~/svc-lb.yml"
--'  12  24  ~/pod.yml
-|4,39,12,24,1773611661,"~/pod.yml"
--'  12  24  ~/pod.yml
-|4,39,12,24,1773611661,"~/pod.yml"
--'  12  24  ~/pod.yml
-|4,39,12,24,1773611661,"~/pod.yml"
--'  12  24  ~/pod.yml
-|4,39,12,24,1773611661,"~/pod.yml"
--'  12  24  ~/pod.yml
-|4,39,12,24,1773611661,"~/pod.yml"
--'  12  24  ~/pod.yml
-|4,39,12,24,1773611661,"~/pod.yml"
--'  12  24  ~/pod.yml
-|4,39,12,24,1773611661,"~/pod.yml"
--'  12  24  ~/pod.yml
-|4,39,12,24,1773611661,"~/pod.yml"
--'  1  0  ~/pod.yml
-|4,39,1,0,1773611653,"~/pod.yml"
--'  1  0  ~/pod.yml
-|4,39,1,0,1773611653,"~/pod.yml"
--'  1  0  ~/pod.yml
-|4,39,1,0,1773611653,"~/pod.yml"
--'  1  0  ~/pod.yml
-|4,39,1,0,1773611653,"~/pod.yml"
--'  1  0  ~/pod.yml
-|4,39,1,0,1773611653,"~/pod.yml"
--'  1  0  ~/pod.yml
-|4,39,1,0,1773611653,"~/pod.yml"
--'  1  0  ~/pod.yml
-|4,39,1,0,1773611653,"~/pod.yml"
--'  1  0  ~/pod.yml
-|4,39,1,0,1773611653,"~/pod.yml"
--'  23  28  ~/deploy.yml
-|4,39,23,28,1773611641,"~/deploy.yml"
--'  23  28  ~/deploy.yml
-|4,39,23,28,1773611641,"~/deploy.yml"
--'  23  28  ~/deploy.yml
-|4,39,23,28,1773611641,"~/deploy.yml"
--'  23  28  ~/deploy.yml
-|4,39,23,28,1773611641,"~/deploy.yml"
--'  23  28  ~/deploy.yml
-|4,39,23,28,1773611641,"~/deploy.yml"
--'  23  28  ~/deploy.yml
-|4,39,23,28,1773611641,"~/deploy.yml"
--'  23  28  ~/deploy.yml
-|4,39,23,28,1773611641,"~/deploy.yml"
--'  23  28  ~/deploy.yml
-|4,39,23,28,1773611641,"~/deploy.yml"
--'  23  28  ~/deploy.yml
-|4,39,23,28,1773611641,"~/deploy.yml"
--'  23  28  ~/deploy.yml
-|4,39,23,28,1773611641,"~/deploy.yml"
--'  23  28  ~/deploy.yml
-|4,39,23,28,1773611641,"~/deploy.yml"
--'  23  28  ~/deploy.yml
-|4,39,23,28,1773611641,"~/deploy.yml"
--'  23  28  ~/deploy.yml
-|4,39,23,28,1773611641,"~/deploy.yml"
--'  23  28  ~/deploy.yml
-|4,39,23,28,1773611641,"~/deploy.yml"
--'  23  28  ~/deploy.yml
-|4,39,23,28,1773611641,"~/deploy.yml"
--'  23  28  ~/deploy.yml
-|4,39,23,28,1773611641,"~/deploy.yml"
--'  1  0  ~/deploy.yml
-|4,39,1,0,1773611623,"~/deploy.yml"
--'  1  0  ~/deploy.yml
-|4,39,1,0,1773611623,"~/deploy.yml"
--'  1  0  ~/deploy.yml
-|4,39,1,0,1773611623,"~/deploy.yml"
--'  1  0  ~/deploy.yml
-|4,39,1,0,1773611623,"~/deploy.yml"
--'  1  0  ~/deploy.yml
-|4,39,1,0,1773611623,"~/deploy.yml"
--'  1  0  ~/deploy.yml
-|4,39,1,0,1773611623,"~/deploy.yml"
--'  1  0  ~/deploy.yml
-|4,39,1,0,1773611623,"~/deploy.yml"
--'  1  0  ~/deploy.yml
-|4,39,1,0,1773611623,"~/deploy.yml"
--'  1  0  ~/deploy.yml
-|4,39,1,0,1773611623,"~/deploy.yml"
--'  1  0  ~/deploy.yml
-|4,39,1,0,1773611623,"~/deploy.yml"
--'  1  0  ~/deploy.yml
-|4,39,1,0,1773611623,"~/deploy.yml"
--'  1  0  ~/deploy.yml
-|4,39,1,0,1773611623,"~/deploy.yml"
--'  1  0  ~/deploy.yml
-|4,39,1,0,1773611623,"~/deploy.yml"
--'  1  0  ~/deploy.yml
-|4,39,1,0,1773611623,"~/deploy.yml"
--'  1  0  ~/deploy.yml
-|4,39,1,0,1773611623,"~/deploy.yml"
--'  1  0  ~/deploy.yml
-|4,39,1,0,1773611623,"~/deploy.yml"
+-'  1  0  ~/svc-lb.yml
+|4,39,1,0,1773611673,"~/svc-lb.yml"
+-'  1  0  ~/svc-lb.yml
+|4,39,1,0,1773611673,"~/svc-lb.yml"
 
 # History of marks within files (newest to oldest):
+
+> ~/bootstrap.css
+	*	1773612503	0
+	"	7	44
+	^	7	45
+	.	7	44
+	+	7	44
+
+> ~/app.js
+	*	1773612150	0
+	"	16	27
+	^	16	28
+	.	16	27
+	+	16	27
+
+> ~/Dockerfile
+	*	1773612132	0
+	"	15	27
+	^	15	28
+	.	15	27
+	+	15	27
 
 > ~/package.json
 	*	1773612025	0
